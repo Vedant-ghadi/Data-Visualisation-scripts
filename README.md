@@ -6,7 +6,6 @@ This project evaluates the effectiveness of Sheffield's Clean Air Zone (CAZ), im
 
 1. **RQ1 (CAZ Effectiveness)**: Did Sheffield's NO₂ concentrations significantly decrease after the CAZ implementation?
 2. **RQ2 (Seasonal Patterns)**: Was the improvement consistent across all seasons, or concentrated in specific months?
-3. **RQ3 (Distributional Impact)**: Beyond average reductions, did the proportion of WHO-compliant days actually increase?
 
 ### Key Messages
 
